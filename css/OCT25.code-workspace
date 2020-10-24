@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"name": "CodeEduTech",
+			"path": "../../../code/fstack/CodeEduTech"
+		},
+		{
+			"name": "blockly-master",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "blockly-master",
+		"editor.formatOnSave": true,
+		"html.format.indentInnerHtml": true,
+		"editor.formatOnPaste": true,
+		"editor.formatOnType": true
+	}
+}
